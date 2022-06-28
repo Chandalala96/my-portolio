@@ -60,7 +60,7 @@
       <main>
             <!-----Projects ---------->
             <section class="container text-center">
-            	   <h2 class="section-titles">Some of My Projects</h2>
+            	   <h2 class="section-titles">Some of My Project</h2>
             	<div class="row">
             		<div class="col-sm-6" data-aos="fade-right" data-aos-delay="200">
             			<div class="card package-card">
